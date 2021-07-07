@@ -60,8 +60,6 @@ const UploadScreen: React.FC = () => {
         
         try {
           await api.patch(`persons/${routeParams._id}`, data).then(() => {
-          setName('')
-          setEmail('')
           ref.current.alertWithType('success', "Success", 'Atualizado com sucesso');
           })
         } catch (error) {

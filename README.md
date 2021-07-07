@@ -1,6 +1,12 @@
 <h1 align="center">  PLACEHUB  AND W3LCOME</h1>
 
-
+<p align="center">
+ <p align="center" >
+  <img alt="Demo on Netlify" width=250 src="https://res.cloudinary.com/df35wabu1/image/upload/v1625683099/Screenshot_1625682805_mnvclt.png">
+    <img alt="Demo on Netlify" width=250 src="https://res.cloudinary.com/df35wabu1/image/upload/v1625683099/Screenshot_1625682809_h1nqno.png">
+    <img alt="Demo on Netlify" width=250 src="https://res.cloudinary.com/df35wabu1/image/upload/v1625683099/Screenshot_1625682823_cwgiaf.png">
+    <img alt="Demo on Netlify" width=250 src="https://res.cloudinary.com/df35wabu1/image/upload/v1625683099/Screenshot_1625682881_j5ymx1.png"> 
+</p>
 ## 💻 Sobre o projeto
 
 
